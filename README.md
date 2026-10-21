@@ -259,7 +259,7 @@ After running `npm run seed`, you can sign in with either role:
 | Persona | Email | Password | Role / Access |
 |---|---|---|---|
 | **System Administrator** | `njadmin@gmail.com` | `nj@3342` | Full Admin Dashboard, Approvals, Employees, Policies |
-| **Standard Employee** | `priya.sharma@leaveflow.io` | `demo1234` | Employee Self-Service, Leave Application, Balances |
+| **Standard Employee** | `swa@gmail.com` | `123456` | Employee Self-Service, Leave Application, Balances |
 | **Standard Employee** | `jordan.lee@leaveflow.io` | `demo1234` | Employee Self-Service, Leave Application, Balances |
 
 ---
